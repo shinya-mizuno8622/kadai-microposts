@@ -1,0 +1,40 @@
+=> [[32m#<User:0x000055d4ebf36798[0m
+  id: [1;34m3[0m,
+  name: [31m[1;31m"[0m[31mtaro[1;31m"[0m[31m[0m,
+  email: [31m[1;31m"[0m[31mtaro@techacademy.jp[1;31m"[0m[31m[0m,
+  password_digest:
+   [31m[1;31m"[0m[31m$2a$12$b6fTTGj0jNw33a8/G7AapOf.DFUa/omJQjFQoStuQ703FYsn2QnEC[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mFri[0m, [1;34m11[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m10[0m:[1;34m13[0m:[1;34m20[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mFri[0m, [1;34m11[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m10[0m:[1;34m13[0m:[1;34m20[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<User:0x000055d4ebf06ca0[0m
+  id: [1;34m4[0m,
+  name: [31m[1;31m"[0m[31mshinya[1;31m"[0m[31m[0m,
+  email: [31m[1;31m"[0m[31mmizu@softbank.ne.jp[1;31m"[0m[31m[0m,
+  password_digest:
+   [31m[1;31m"[0m[31m$2a$12$1xSJ4v2pafsEgs5GhTjyme2RVZJa2Ear/uQqX9hP.6sF0OqD8eYO.[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m01[0m:[1;34m04[0m:[1;34m41[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m01[0m:[1;34m04[0m:[1;34m41[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<User:0x000055d4ebf06b38[0m
+  id: [1;34m5[0m,
+  name: [31m[1;31m"[0m[31mshinaaa[1;31m"[0m[31m[0m,
+  email: [31m[1;31m"[0m[31mmizuno3109@yahoo.co.jp[1;31m"[0m[31m[0m,
+  password_digest:
+   [31m[1;31m"[0m[31m$2a$12$5LKq0cPt7Dy9h2jr552wu.k6ervrBaSzHGWHbn8RrBQC3Ff5VkdHO[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m02[0m:[1;34m36[0m:[1;34m14[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m02[0m:[1;34m36[0m:[1;34m14[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<User:0x000055d4ebf069d0[0m
+  id: [1;34m6[0m,
+  name: [31m[1;31m"[0m[31maa[1;31m"[0m[31m[0m,
+  email: [31m[1;31m"[0m[31mmizu@sobank.ne.jp[1;31m"[0m[31m[0m,
+  password_digest:
+   [31m[1;31m"[0m[31m$2a$12$CTZVeH5mCHkoNIWrS1yaW.Ie.3.29DAGV3bCIR.uxE1c2cMUWsX4i[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m11[0m:[1;34m40[0m:[1;34m46[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m11[0m:[1;34m40[0m:[1;34m46[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<User:0x000055d4ebf06890[0m
+  id: [1;34m7[0m,
+  name: [31m[1;31m"[0m[31mooo[1;31m"[0m[31m[0m,
+  email: [31m[1;31m"[0m[31mooo@yahoo.co.jp[1;31m"[0m[31m[0m,
+  password_digest:
+   [31m[1;31m"[0m[31m$2a$12$CanYVtFNYnNPWgezm8piTukl0SX5JPevqMH9kWZVJOSyO5eihVHLW[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m11[0m:[1;34m41[0m:[1;34m37[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSat[0m, [1;34m12[0m [1;34;4mJun[0m [1;34m2021[0m [1;34m11[0m:[1;34m41[0m:[1;34m37[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
